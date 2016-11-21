@@ -1,6 +1,7 @@
-aa4eae3997582f5634961e9a04ea875c *DESCRIPTION
+e1b75123655be59852eab69470c9ed3c *DESCRIPTION
 f2b6365417e71fc59b69cdde4088d1e5 *LICENSE
-0abd5f5dd04965a7006172ce08d353a2 *NAMESPACE
+58a26d665fa4c61e3055749635512f5a *NAMESPACE
+1aaaa3e2c49533ae575d3606d696cc04 *NEWS.md
 2a1bb99b0babf0ab1abe73d586f0d536 *R/gh_install_packages.R
 527ca2345b0bf4e5b6a2d674c932d1c0 *R/gh_list_packages.R
 0afb0ab6ba51d71748b43a959689befc *R/gh_search_packages.R
@@ -8,14 +9,16 @@ f2b6365417e71fc59b69cdde4088d1e5 *LICENSE
 7c1ae4d421bfdc5a31b379b7eb72acef *R/gh_suggest_username.R
 dbaaf4bb8b03f88f3cb46fb368cbfd17 *R/gh_sugget.R
 27c98b6a0c4dcc12e34a977142b898e2 *R/gh_update_package_list.R
+5a47a4e40107e986a14041a9cdf431f3 *R/my_stringr.R
 ec92fc727fbc1c2e790778aed2728b50 *R/network.R
 c7d99fcbc6518b89a3288b1656cd45d1 *R/utils.R
-307b1bb34267762348a1f76103380420 *R/utils_for_install.R
+5b461c95d1c4ab05d2a121b5a05f24e3 *R/utils_for_install.R
 dff36b4ef8abf954c30f04982e8ae3b1 *R/zzz.R
-7694fc7e8f8c4ead46082a4cbcd66c5d *build/vignette.rds
+44fb8b0ab0a493780616357a97cf9855 *README.md
+ed5bee5ed0a52f81fa2d7489a141d3c5 *build/vignette.rds
 9050c4d177b356ae29dd8982a4b819ba *inst/doc/githubinstall.R
-70fd468b4334258ffca49e091efcb96b *inst/doc/githubinstall.Rmd
-bb81ad56d9aad85754cc89700246f254 *inst/doc/githubinstall.html
+dd84aa2022d5a0adb2add62858f7bcd5 *inst/doc/githubinstall.Rmd
+186daec444f2ba63716d20e768f235b6 *inst/doc/githubinstall.html
 be63cf9e912e40bb6bc06abc6cb19ca4 *man/gh_install_packages.Rd
 37ec74d864bf20c9092b578f99b60334 *man/gh_list_packages.Rd
 57ffc37d616a705d2b0a35c9cfd32dc7 *man/gh_search_packages.Rd
@@ -37,4 +40,4 @@ dc85ca81893ecac4ab9654e81770f6d1 *tests/testthat/test-gh_suggest_username.R
 587c1375d551e3f55dafa4e7f9181392 *tests/testthat/test-really_install.R
 5ccfce6f6bb64f95004dc5af0f614b56 *tests/testthat/test-utils.R
 bb9f96b51dcbdaa62ad016c2465c2206 *tests/testthat/test-utils_for_install.R
-70fd468b4334258ffca49e091efcb96b *vignettes/githubinstall.Rmd
+dd84aa2022d5a0adb2add62858f7bcd5 *vignettes/githubinstall.Rmd
